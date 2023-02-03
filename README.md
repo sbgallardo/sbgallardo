@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-Future software engineer
+*Future software engineer*
 
-- 🌱 I’m currently learning Svelte, Redis, MongoDB
-
-ᓚᘏᗢ
+>🌱 I’m currently learning Svelte, Redis, MongoDB
