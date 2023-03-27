@@ -1,5 +1,5 @@
 <h1 style="color: darkblue">Python programmer & computer engineering student.</h1>
-Python programmer & computer engineering student.
+
 <div  align="center"> 
   <div style="display:flex"><br>
     
