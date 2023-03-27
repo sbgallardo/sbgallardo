@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://r.gallard.me">
+    <a href="http://r.gallard.me">
         <img src="https://img.icons8.com/external-others-inmotus-design/150/null/external-S-qwerty-keypad-others-inmotus-design-2.png" alt="Logo"/>  
     </a>
   <h2 align="center"><a href="https://www.gallard.me">Sebastián G.</a></h2>
