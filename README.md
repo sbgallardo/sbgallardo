@@ -1,10 +1,5 @@
-<div>
-    <img src="https://img.icons8.com/external-others-inmotus-design/150/null/external-S-alphabet-others-inmotus-design-15.png"/>
-</div>
-
-
 <p align="center">
-  <img src="https://img.icons8.com/external-others-inmotus-design/150/null/external-S-alphabet-others-inmotus-design-15.png"/>
+  <img src="<img src="https://img.icons8.com/external-others-inmotus-design/150/null/external-S-qwerty-keypad-others-inmotus-design-2.png"/>"/>
   <h2 align="center"><a href="https://www.gallard.me">Sebastian G.</a></h2>
   <p align="center">Computer engineering student<p>
   <p align="center">
