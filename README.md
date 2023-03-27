@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-<h2>Python programmer & computer engineering student.</h2>
-</div>
+Python programmer & computer engineering student.
 <div  align="center"> 
   <div style="display:flex"><br>
     
@@ -13,10 +11,4 @@
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> 
 </div>
     
-</div>
-
-<div style="text-align: center;">
-<img src="https://github.com/sbgallardo/sbgallardo/blob/public/github-grid-snake.svg" alt="Snake">
-</div>
-
 ![Snake Grid Animation](https://github.com/sbgallardo/sbgallardo/blob/public/github-grid-snake.svg)
