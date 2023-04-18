@@ -3,7 +3,7 @@
         <img src="https://img.icons8.com/external-others-inmotus-design/150/null/external-S-qwerty-keypad-others-inmotus-design-2.png" alt="Logo"/>  
     </a>
   <h2 align="center"><a href="https://www.gallard.me">Sebastián G.</a></h2>
-  <p align="center">Computer engineering student<p>
+  <p align="center">Computer engineering student</p>
   <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="">
