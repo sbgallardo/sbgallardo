@@ -4,7 +4,8 @@
     </a>
   <h2 align="center"><a href="https://r.gallard.me">Sebastián G.</a></h2>
   <p align="center">Computer engineering student</p>
----
+
+
 ![](https://giphy.com/embed/VbnUQpnihPSIgIXuZv)
 
 ![](https://i.imgur.com/waxVImv.png)
