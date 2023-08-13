@@ -6,7 +6,7 @@
   <p align="center">Computer engineering student</p>
 
 
-![](https://giphy.com/embed/VbnUQpnihPSIgIXuZv)
+![](https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif)
 
 ![](https://i.imgur.com/waxVImv.png)
 
