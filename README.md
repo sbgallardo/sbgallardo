@@ -5,7 +5,8 @@
     <h2 align="center"><a href="https://r.gallard.me">Sebastián G.</a></h2>
     
     
-  <p align="center">Computer engineering student</p>
+  <p align="center">Software Engineer</p>
+  
   <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo">
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust logo - not sponsored by the Rust® Foundation">
@@ -26,14 +27,15 @@
   </p>
 
 
+
 ![](https://i.imgur.com/waxVImv.png)
 
 <!--    
 ![Snake Grid Animation](https://github.com/sbgallardo/sbgallardo/blob/public/github-grid-snake.svg)
 -->
 
-<!--
+<br>
 <p align="center">
     <a target="_blank" href="https://icons8.com/icon/NqljgLAsOW6P/s">S icon by Icons8</a>
 </p>
--->
+
