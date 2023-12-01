@@ -29,9 +29,9 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-
+<!--
 <img align="center" style="width: 100%;height: auto;" src="https://github.com/sbgallardo/sbgallardo/blob/public/gif-that-goes-hard.gif?raw=true" alt="Pic that goes hard">
-
+-->
 
 
 <!--    
