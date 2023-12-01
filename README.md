@@ -5,7 +5,7 @@
     <h2 align="center"><a href="https://r.gallard.me">Sebastián G.</a></h2>
     
     
-  <p align="center">Software Developer</p>
+  <p align="center">Developer</p>
   
   <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo">
@@ -29,12 +29,18 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
+
+<img align="center" style="width: 100%;height: auto;" src="https://github.com/sbgallardo/sbgallardo/blob/public/gif-that-goes-hard.gif?raw=true" alt="Pic that goes hard">
+
+
+
 <!--    
 ![Snake Grid Animation](https://github.com/sbgallardo/sbgallardo/blob/public/github-grid-snake.svg)
 -->
-
+<!--
 <br>
 <p align="center">
     <a target="_blank" href="https://icons8.com/icon/NqljgLAsOW6P/s">S icon by Icons8</a>
 </p>
 
+-->
