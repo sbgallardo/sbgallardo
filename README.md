@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="http://r.gallard.me">
-        <img src="https://img.icons8.com/external-others-inmotus-design/150/null/external-S-qwerty-keypad-others-inmotus-design-2.png" alt="Logo"/>  
+    <a href="http://ssh.lat/sebas">
+        <img src="https://img.icons8.com/plumpy/284/s.png" alt="Logo"/>  
     </a>
-    <h2 align="center"><a href="https://r.gallard.me">Sebastián G.</a></h2>
+    <h2 align="center"><a href="https://ssh.lat/sebas">Sebastián G.</a></h2>
     
     
   <p align="center">Developer</p>
@@ -25,22 +25,8 @@
         <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="">
   </p>
 
-
-
 ![](https://i.imgur.com/waxVImv.png)
 
-<!--
-<img align="center" style="width: 100%;height: auto;" src="https://github.com/sbgallardo/sbgallardo/blob/public/gif-that-goes-hard.gif?raw=true" alt="Pic that goes hard">
--->
-
-
-<!--    
-![Snake Grid Animation](https://github.com/sbgallardo/sbgallardo/blob/public/github-grid-snake.svg)
--->
-<!--
-<br>
 <p align="center">
-    <a target="_blank" href="https://icons8.com/icon/NqljgLAsOW6P/s">S icon by Icons8</a>
+    <h5 align="center"><a href="https://ssh.lat/sebas.key">Public PGP Key</a></h5>
 </p>
-
--->
