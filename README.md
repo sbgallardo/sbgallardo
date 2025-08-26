@@ -3,7 +3,7 @@
         <img src="https://img.icons8.com/plumpy/284/s.png" alt="Logo"/>  
     </a>
     <h2 align="center">
-        <a href="https://ssh.lat/sebas">Sebastián G.</a>
+        <a href="https://g.dev/sebas">Sebastián G.</a>
     </h2>
 </div>
     
